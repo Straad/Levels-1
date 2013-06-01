@@ -1,6 +1,6 @@
-<download name="Molevolance_TestMap" type="Map">
+<download name="molevolance_testmap" type="Map">
  <index src="filelist.xml" dest="filelist.xml"/>
  <files>
-  <file src="level.pak" dest="level.pak" size="2773237" md5="7bd6db1dd967712294a10532510955c3"/>
+  <file src="level.pak" dest="level.pak" size="2847017" md5="e05c263cbbd15433dca19d06551532b8"/>
  </files>
 </download>
